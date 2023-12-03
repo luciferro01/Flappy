@@ -12,7 +12,7 @@ import 'package:flappy_bird/utils/config.dart';
 
 late Bird bird;
 
-class FlappyBirdGame extends FlameGame with TapDetector {
+class FlappyBirdGame extends FlameGame with TapDetector, HasCollisionDetection {
   Timer interval = Timer(Config.pipeInterval, repeat: true);
 
   @override
