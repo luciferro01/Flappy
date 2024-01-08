@@ -5,9 +5,8 @@
 <p align="center"><img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&amp;logo=flutter" alt="shields"><img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&amp;logo=dart" alt="shields"></p>
 
 <h2>🚀 Demo</h2>
-<video width="320" height="240" controls>
-  <source src="./assets/demo/flappy_demo_video.mp4" type="video/mp4">
-</video>
+
+https://github.com/luciferro01/Flappy/assets/108746571/844ab419-b830-4685-a0f6-450e72c1f08a
 
 <h2>Project Screenshots:</h2>
 
